@@ -39,7 +39,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <h1>ToDo list</h1>
+        <h1>Tout doux.. list</h1>
         <div className="form">
           <input
             type="text"
